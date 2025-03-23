@@ -1,0 +1,1 @@
+clonar os drives de diversas máquinas.
